@@ -1,0 +1,26 @@
+/* Define different background colors for each entity type */
+.entity.PERSON { background-color: #fdd7e4; }
+.entity.ORG { background-color: #d5d5f5; }
+.entity.GPE { background-color: #f5e7cd; }
+.entity.LOC { background-color: #d5f5e7; }
+.entity.EVENT { background-color: #f5d5d5; }
+.entity.DATE { background-color: #e7d5f5; }
+.entity.TIME { background-color: #d5e7f5; }
+.entity.MONEY { background-color: #e7f5d5; }
+.entity.CARDINAL { background-color: #f5d5e7; }
+.entity.ORDINAL { background-color: #d5f5e7; }
+.entity.QUANTITY { background-color: #e7d5f5; }
+.entity.PERCENT { background-color: #d5e7f5; }
+.entity.LANGUAGE { background-color: #f5e7d5; }
+.entity.PRODUCT { background-color: #e7f5d5; }
+.entity.WORK_OF_ART { background-color: #d5d5f5; }
+.entity.FAC { background-color: #d5f5e7; }
+.entity.NORP { background-color: #f5d5e7; }
+
+/* Apply the styles to the entities */
+.entity {
+    border-radius: 5px;
+    padding: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
