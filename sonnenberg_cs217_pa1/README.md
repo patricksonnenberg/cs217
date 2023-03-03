@@ -12,6 +12,11 @@ The user can either specify a txt file, or can use a JSON string. If using a JSO
 
 ##### To run:
 Change directory to this folder. Run the restful_api.py file. 
+
+```bash
+python restful_api.py
+```
+
 In a different terminal, navigate again to the folder and use the following (example) curl commands:
 
 ```bash
@@ -41,6 +46,9 @@ in place in the sentence, and they are also listed individually.
 ##### To run: 
 Run the flask_webserver.py file and go to the address (http://127.0.0.1:5000)
 
+```bash
+python flask_webserver.py
+```
 
 
 ### 3. Streamlit
@@ -50,7 +58,9 @@ The next two list all the entities: the first lists the entities in the order th
 The last drop-down is a visualizer that displays a bar graph containing the counts of each present entity label. 
 
 ##### To run: 
+```bash
 streamlit run streamlit_app.py
+```
 
 
 ### Modules and Versions
