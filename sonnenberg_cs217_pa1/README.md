@@ -1,4 +1,4 @@
-## CS217 PA1
+# CS217 PA1
 This assignment contains three parts:
 1. Creating a restful API to access spaCy NER
 2. Creating a Flask webserver to access spaCy NER
