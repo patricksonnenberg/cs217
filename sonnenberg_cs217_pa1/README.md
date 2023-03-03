@@ -2,7 +2,7 @@
 This assignment contains three parts:
 1. Creating a restful API to access spaCy NER
 2. Creating a Flask webserver to access spaCy NER
-3. Creating a Streamlit applicaiton to access spaCy NER
+3. Creating a Streamlit applicaiton to access spaCy NER 
 
 spaCy NER will tag all entities present in a text. There are various labels for entities, including person, location, and organization.
 
