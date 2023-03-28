@@ -1,4 +1,4 @@
-##CS217 PA2
+## CS217 PA2
 This assignment creates a Flask webserver to access spaCy NER. There is a database on the backend to keep track of counts, and the application is dockerized.
 
 spaCy NER will tag all entities present in a text. There are various labels for entities, including person, location, and organization.
